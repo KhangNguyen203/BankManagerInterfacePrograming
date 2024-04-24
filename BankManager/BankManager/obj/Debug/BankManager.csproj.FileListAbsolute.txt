@@ -1,0 +1,36 @@
+C:\Users\84355\Desktop\BankManager\BankManager\bin\Debug\BankManager.exe.config
+C:\Users\84355\Desktop\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\84355\Desktop\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.csprojResolveAssemblyReference.cache
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.Cache
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.exe
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.pdb
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.FrmHome.resources
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.FrmMoTaiKhoan.resources
+C:\Users\84355\Desktop\BankManager\BankManager\obj\Debug\BankManager.FrmDangNhap.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\bin\Debug\BankManager.exe.config
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.exe
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.pdb
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.csprojResolveAssemblyReference.cache
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.FrmDangNhap.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.FrmHome.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.FrmMoTaiKhoan.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.Properties.Resources.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.csproj.GenerateResource.Cache
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.FrmSuccessRegister.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.FrmHomeUser.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.FrmChuyenKhoan.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.ChuyenKhoan.FrmXacNhan.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.FrmNapTien.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.RutTien.FrmRutTien.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.ThongTinCaNhan.FrmThongTinCaNhan.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.NewFolder1.DoiMatKhau.FromDoiMK.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.TaiKhoanKyHan.FrmHomeKH.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.TaiKhoanKH.FrmMoKH.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.TaiKhoanKH.FrmDSTaiKhoanKH.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.Test.YourForm.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.TaiKhoanKH.FrmNapTienKH.resources
+C:\Users\84355\Desktop\Windows Form App\BankManager\BankManager\obj\Debug\BankManager.ChucNang.TaiKhoanKH.FrmRutTienKH.resources

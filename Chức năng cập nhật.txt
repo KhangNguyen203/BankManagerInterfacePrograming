@@ -1,0 +1,5 @@
+* Chắc năng cần cập nhật:
+- thanh box (xác nhận) khi mở tài khoản kỳ hạn
+- cập nhật tiền khi mở tài khoản (trừ tiền ở tk chính và cộng vào tk kỳ hạn)
+- xử lý nạp tối thiểu ở TKKH
+- xử lý rút tối thiểu ở TKKH
